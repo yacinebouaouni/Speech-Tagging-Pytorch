@@ -4,7 +4,7 @@ Using Recurrent Neural Network ( LSTM ) to predict part of speech tags using Pyt
 ## What's Part of speech tagging?:
 
 ![GitHub Logo](/images/logo.png)
-Format: ![ERROR](https://miro.medium.com/max/2340/1*CbZE2ZTBlmswW84Knjbqkg.png)
+Format: ![ERROR](https://blog.aaronccwong.com/assets/images/bigram-hmm/pos-title.jpg)
 
 
 >> * part-of-speech tagging also called word-category disambiguation, is the process of marking up a word in a text  as corresponding to a particular part of speech,based on both its definition and its context—i.e., its relationship with adjacent and related words in a phrase, sentence, or paragraph. 
